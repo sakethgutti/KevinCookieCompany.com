@@ -1,0 +1,10 @@
+#ignore all .txt files. This is just a comment
+#created a txt doc named .gitignore in the folder
+#even deleting the extension
+#dragged that file into already opened notepad
+#wrote *txt
+#when checked for git status, one cannot see that txt file.
+#instead will see .gitignore file in git bash
+
+*txt
+
